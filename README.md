@@ -2,15 +2,9 @@
 Привет👋 Меня зовут Марина</h1>
 
 <div align="center">
-  <a href="https://t.me/m_yakubovskaya">
-    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133" alt="Telegram Badge" />
-  </a>
-  <a href="mailto:maribars93@yandex.ru">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133" alt="Email Badge" />
-  </a>
-  <a href="https://www.codewars.com/users/Yakubovskaya">
-    <img src="https://www.codewars.com/users/Yakubovskaya/badges/micro" alt="Codewars Badge" />
-  </a>
+  <a href="https://t.me/m_yakubovskaya"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133" alt="Telegram Badge" /></a>
+  <a href="mailto:maribars93@yandex.ru"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133" alt="Email Badge" /></a>
+  <a href="https://www.codewars.com/users/Yakubovskaya"><img src="https://www.codewars.com/users/Yakubovskaya/badges/micro" alt="Codewars Badge" /></a>
 </div>
 
 <br>
