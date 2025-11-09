@@ -1,5 +1,5 @@
 <h1 align="center">
-Привет👋 Меня зовут Марина</h1>
+Hi👋 I'm Marina</h1>
 
 <div align="center">
   <a href="https://t.me/m_yakubovskaya"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133" alt="Telegram Badge" /></a>
@@ -9,10 +9,10 @@
 
 <br>
 
-<p align="left">Я начинающий Frontend-разработчик. 
-Мой путь начался с курсов на Udemy, где я освоила основы HTML, CSS и JavaScript.  
-Затем я прошла обучение в HTML Academy, углубив знания в семантической и адаптивной вёрстке.  
-Сейчас обучаюсь в RS School, где продолжаю развивать свои навыки.<br>Нацелена на практическое применение знаний и участие в командной разработке проектов</p>
+<p align="left"> I am a junior Frontend developer.
+My journey began with courses on Udemy, where I learned the basics of HTML, CSS, and JavaScript.
+Then I completed training at HTML Academy, deepening my knowledge of semantic and responsive layout.
+I’m currently studying at RS School, where I continue to develop my skills.<br>I’m focused on applying my knowledge in practice and participating in team project development.</p>
 
 <br>
 
