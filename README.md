@@ -48,7 +48,7 @@ ___
 
 > Photographer Portfolio Landing Page
 
-https://github.com/user-attachments/assets/3ca58025-9713-4413-aaac-dfd17b75c194
+https://github.com/user-attachments/assets/bf996a14-d323-4ea9-8051-e08bffaa5a5c
 
 [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat-square&logo=css)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logoColor=white)](#) 
 
