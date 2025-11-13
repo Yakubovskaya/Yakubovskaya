@@ -21,10 +21,10 @@ I’m currently studying at RS School, where I continue to develop my skills.<br
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-553d7d?style=flat-square&logo=css" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
@@ -50,9 +50,25 @@ ___
 
 https://github.com/user-attachments/assets/bf996a14-d323-4ea9-8051-e08bffaa5a5c
 
-[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat-square&logo=css)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logoColor=white)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logoColor=white)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=flat-square)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logoColor=white)](#) 
 
 - *HTML*
 - *CSS*
 - *JavaScript*
 - *ESLint, Prettier*
+___
+## [virtual-xylophone](https://github.com/Yakubovskaya/virtual-xylophone)
+
+> Interactive musical instrument built with JavaScript.
+It allows users to play notes in real time and reproduce custom-created sound sequences.
+
+https://github.com/user-attachments/assets/5c6b4f78-89c9-4a7f-953b-75e817038bda
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logoColor=white)](#) [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logoColor=white)](#) [![Vite Badge](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logoColor=white)](#)
+
+- *SCSS*
+- *JavaScript*
+- *ESLint, Prettier*
+- *Web Audio API*
+- *Vite*
+
