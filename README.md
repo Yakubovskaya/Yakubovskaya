@@ -9,7 +9,7 @@ Hi👋 I'm Marina</h1>
 
 <br>
 
-<p align="left"> I am a junior Frontend developer.
+<p align="left"> I am Frontend developer.
 My journey began with courses on Udemy, where I learned the basics of HTML, CSS, and JavaScript.
 Then I completed training at HTML Academy, deepening my knowledge of semantic and responsive layout.
 I’m currently studying at RS School, where I continue to develop my skills.<br>I’m focused on applying my knowledge in practice and participating in team project development.</p>
