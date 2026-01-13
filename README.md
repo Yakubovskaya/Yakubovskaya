@@ -91,7 +91,9 @@ https://github.com/user-attachments/assets/fc547b45-2fef-4e40-91af-664e9ea5fd75
 ___
 ## [kekstagram](https://github.com/Yakubovskaya/kekstagram)
 
-> Pair ’em Up is a strategic number-matching puzzle game where players must clear a grid by finding valid pairs of numbers. The goal is to reach 100 points before valid moves and assist tools run out.
+> Kekstagram is a frontend application inspired by social photo platforms.  
+Users can upload images, edit them in a modal editor (scaling, effects, hashtags, comments), and publish them to a remote server.  
+The app also loads and displays photos from other users, providing filtering and full-screen preview functionality.
 
 https://github.com/user-attachments/assets/94e774b1-c648-4200-bf19-339f3b9a9fb7
 
