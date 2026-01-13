@@ -67,9 +67,25 @@ https://github.com/user-attachments/assets/5c6b4f78-89c9-4a7f-953b-75e817038bda
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logoColor=white)](#) [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logoColor=white)](#) [![Vite Badge](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logoColor=white)](#)
 
-- *SCSS*
 - *JavaScript*
+- *HTML, SCSS*
 - *ESLint, Prettier*
 - *Web Audio API*
 - *Vite*
+___
+## [pair-em-up](https://github.com/Yakubovskaya/pair-em-up)
 
+> Pair ’em Up is a strategic number-matching puzzle game where players must clear a grid by finding valid pairs of numbers. The goal is to reach 100 points before valid moves and assist tools run out.
+
+https://github.com/user-attachments/assets/fc547b45-2fef-4e40-91af-664e9ea5fd75
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logoColor=white)](#)
+
+- *Javascript*
+- *HTML, SCSS*
+- *Vite*
+- *ESLint, Prettier*
+- *Husky*
+- *Commitlint*
+- *Lint-staged*
+___
